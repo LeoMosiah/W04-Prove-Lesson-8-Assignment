@@ -11,7 +11,7 @@ const professionalRoutes = require('./routes/professional');
 dotenv.config()
 
 const corsOptions = {
-  origin: "https://leo-node-js-complete-guide.herokuapp.com/",
+  origin: "https://leo-prove-week-04.herokuapp.com/",
   optionsSuccessStatus: 200
 }
 
