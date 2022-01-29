@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-complete-guide",
+  "name": "lesson 08 prove",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
     "dev": "nodemon app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://git-codecommit.us-east-1.amazonaws.com/v1/repos/udemy-course-nodejs-complete"
   },
   "author": "",
   "license": "ISC",
